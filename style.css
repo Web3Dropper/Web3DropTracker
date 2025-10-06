@@ -1,2 +1,4 @@
 body { font-family: Arial; background: #f0f0f0; text-align: center; }
 h1 { color: #333; }
+ul { list-style-type: none; padding: 0; }
+li { background: #fff; margin: 5px; padding: 10px; border-radius: 5px; }
